@@ -36,6 +36,7 @@
     "gulp-autoprefixer": "6.0.0",
     "gulp-clean-css": "3.10.0",
     "gulp-header": "2.0.5",
+    "gulp-real-favicon": "^0.3.2",
     "gulp-rename": "1.4.0",
     "gulp-sass": "4.0.1",
     "gulp-uglify": "3.0.1"
